@@ -3,7 +3,7 @@ Image translation on a webpage using a server-client architecture on a GENI slic
 
 <p float="left">
 <img src="images/hassan.jpg" width="200"/>
-<img src="images/la_muse.jpg" height="270"/>
+<img src="images/la_muse.jpg" height="250"/>
 <img src="images/hassan_translated.jpg" width="200"/>
 </p>
 
