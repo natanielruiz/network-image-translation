@@ -1,6 +1,19 @@
 # network-image-translation
 Image translation on a webpage using a server-client architecture on a GENI slice.
 
+![Alt text](images/hassan.jpg?raw=true "Title")
+![Alt text](images/la_muse.jpg?raw=true "Title")
+![Alt text](images/hassan_translated.jpg?raw=true "Title")
+
+![Alt text](images/dina.jpg?raw=true "Title")
+![Alt text](images/scream.jpg?raw=true "Title")
+![Alt text](images/dina_translated.jpg?raw=true "Title")
+
+![Alt text](images/nataniel.jpg?raw=true "Title")
+![Alt text](images/wave.jpg?raw=true "Title")
+![Alt text](images/nataniel_translated.jpg?raw=true "Title")
+
+
 To reproduce:
 
 0. Create a slice on GENI using the 'rspec' file and ssh into the server.
