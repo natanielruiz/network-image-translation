@@ -1,17 +1,17 @@
 # network-image-translation
 Image translation on a webpage using a server-client architecture on a GENI slice.
 
-![Hassan](images/hassan.jpg?raw=true "Hassan" | width=300)
-![La Muse](images/la_muse.jpg?raw=true "La Muse" | width=300)
-![Translated Hassan](images/hassan_translated.jpg?raw=true "Translated Hassan" | width=300)
+![Hassan](images/hassan.jpg?raw=true "Hassan"){:height="50%" width="50%"}
+![La Muse](images/la_muse.jpg?raw=true "La Muse"){:height="50%" width="50%"}
+![Translated Hassan](images/hassan_translated.jpg?raw=true "Translated Hassan"){:height="50%" width="50%"}
 
-![Dina](images/dina.jpg?raw=true "Dina" | width=300)
-![Scream](images/scream.jpg?raw=true "Scream" | width=300)
-![Translated Dina](images/dina_translated.jpg?raw=true "Translated Dina" | width=300)
+![Dina](images/dina.jpg?raw=true "Dina"){:height="50%" width="50%"}
+![Scream](images/scream.jpg?raw=true "Scream"){:height="50%" width="50%"}
+![Translated Dina](images/dina_translated.jpg?raw=true "Translated Dina"){:height="50%" width="50%"}
 
-![Nataniel](images/nataniel.png?raw=true "Nataniel" | width=300)
-![Wave](images/wave.jpg?raw=true "Wave" | width=300)
-![Translated Nataniel](images/nataniel_translated.png?raw=true "Translated Nataniel" | width=300)
+![Nataniel](images/nataniel.png?raw=true "Nataniel"){:height="50%" width="50%"}
+![Wave](images/wave.jpg?raw=true "Wave"){:height="50%" width="50%"}
+![Translated Nataniel](images/nataniel_translated.png?raw=true "Translated Nataniel"){:height="50%" width="50%"}
 
 
 To reproduce:
