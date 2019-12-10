@@ -1,17 +1,17 @@
 # network-image-translation
 Image translation on a webpage using a server-client architecture on a GENI slice.
 
-![Alt text](images/hassan.jpg?raw=true "Title")
-![Alt text](images/la_muse.jpg?raw=true "Title")
-![Alt text](images/hassan_translated.jpg?raw=true "Title")
+![Hassan](images/hassan.jpg?raw=true "Hassan" | width=300)
+![La Muse](images/la_muse.jpg?raw=true "La Muse" | width=300)
+![Translated Hassan](images/hassan_translated.jpg?raw=true "Translated Hassan" | width=300)
 
-![Alt text](images/dina.jpg?raw=true "Title")
-![Alt text](images/scream.jpg?raw=true "Title")
-![Alt text](images/dina_translated.jpg?raw=true "Title")
+![Dina](images/dina.jpg?raw=true "Dina" | width=300)
+![Scream](images/scream.jpg?raw=true "Scream" | width=300)
+![Translated Dina](images/dina_translated.jpg?raw=true "Translated Dina" | width=300)
 
-![Alt text](images/nataniel.jpg?raw=true "Title")
-![Alt text](images/wave.jpg?raw=true "Title")
-![Alt text](images/nataniel_translated.jpg?raw=true "Title")
+![Nataniel](images/nataniel.png?raw=true "Nataniel" | width=300)
+![Wave](images/wave.jpg?raw=true "Wave" | width=300)
+![Translated Nataniel](images/nataniel_translated.png?raw=true "Translated Nataniel" | width=300)
 
 
 To reproduce:
