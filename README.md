@@ -1,6 +1,8 @@
 # network-image-translation
 Image translation on a webpage using a server-client architecture on a GENI slice.
 
+<img src="images/hassan.jpg" width="300">
+
 ![Hassan](images/hassan.jpg?raw=true "Hassan"){:height="50%" width="50%"}
 ![La Muse](images/la_muse.jpg?raw=true "La Muse"){:height="50%" width="50%"}
 ![Translated Hassan](images/hassan_translated.jpg?raw=true "Translated Hassan"){:height="50%" width="50%"}
