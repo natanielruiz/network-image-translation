@@ -2,18 +2,22 @@
 Image translation on a webpage using a server-client architecture on a GENI slice.
 
 <p float="left">
-<img src="images/hassan.jpg" width="300"/>
-<img src="images/la_muse.jpg" width="300"/>
-<img src="images/hassan_translated.jpg" width="300"/>
+<img src="images/hassan.jpg" width="200"/>
+<img src="images/la_muse.jpg" width="200"/>
+<img src="images/hassan_translated.jpg" width="200"/>
 </p>
 
-<img src="images/dina.jpg" width="300">
-<img src="images/scream.jpg" width="300">
-<img src="images/dina_translated.jpg" width="300">
+<p float="left">
+<img src="images/dina.jpg" width="200">
+<img src="images/scream.jpg" width="200">
+<img src="images/dina_translated.jpg" width="200">
+</p>
 
-<img src="images/nataniel.png" width="300">
-<img src="images/wave.jpg" width="300">
-<img src="images/nataniel_translated.png" width="300">
+<p float="left">
+<img src="images/nataniel.png" width="200">
+<img src="images/wave.jpg" width="200">
+<img src="images/nataniel_translated.png" width="200">
+</p>
 
 To reproduce:
 
