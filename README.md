@@ -1,9 +1,17 @@
 # network-image-translation
 Image translation on a webpage using a server-client architecture on a GENI slice.
 
-<img src="images/hassan.jpg" width="300">
-<img src="images/la_muse.jpg" width="300">
-<img src="images/hassan_translated.jpg" width="300">
+<div class="row">
+  <div class="column">
+    <img src="images/hassan.jpg" width="300">
+  </div>
+  <div class="column">
+    <img src="images/la_muse.jpg" width="300">
+  </div>
+  <div class="column">
+    <img src="images/hassan_translated.jpg" width="300">
+  </div>
+</div>
 
 <img src="images/dina.jpg" width="300">
 <img src="images/scream.jpg" width="300">
