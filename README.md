@@ -3,19 +3,19 @@ Image translation on a webpage using a server-client architecture on a GENI slic
 
 <p float="left">
 <img src="images/hassan.jpg" width="200"/>
-<img src="images/la_muse.jpg" width="200"/>
+<img src="images/la_muse.jpg" height="300"/>
 <img src="images/hassan_translated.jpg" width="200"/>
 </p>
 
 <p float="left">
 <img src="images/dina.jpg" width="200">
-<img src="images/scream.jpg" width="200">
+<img src="images/scream.jpg" height="200">
 <img src="images/dina_translated.jpg" width="200">
 </p>
 
 <p float="left">
 <img src="images/nataniel.png" width="200">
-<img src="images/wave.jpg" width="200">
+<img src="images/wave.jpg" height="200">
 <img src="images/nataniel_translated.png" width="200">
 </p>
 
