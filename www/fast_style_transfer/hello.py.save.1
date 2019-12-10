@@ -1,0 +1,47 @@
+#!/usr/bin/python
+
+import cgi
+import cgitb; cgitb.enable()
+from PIL import Image
+import os
+import datetimimport server_transfer
+
+print("Content-type:text/html\r\n\r\n")
+print("<html>")
+print("<head><title>My First CGI Program</title></head>")
+print("<body>")
+print("<p> In this webpage you can upload an image. Then the server will send back the same image but with a style transformation.</p>")
+
+def is_jpg_png(filename):
+    im = filename.split(".")
+    if im[-1]=='jpeg' or im[-1]=='png':
+        return True
+    else:
+        return False
+
+form = cgi.FieldStorage()
+if "file" in form:
+    fileitem = form["file"]
+    if is_jpg_png(fileitem.filename):
+        ipadd = cgi.escape(os.environ["REMOTE_ADDR"])
+        date = datetime.datetime.now()
+        f = open('images/'+ipadd+"_"+str(date)+"_"+fileitem.filename, "wb")
+        f.write(fileitem.file.read())
+        print('''<img src="images/{0}_{1}_{2}" width=500 height=600> '''.format(ipadd,str(date),fileitem.filename))
+        input_file_path= "/var/www/images/"+ipadd+"_"+str(date)+"_"+fileitem.filename
+        output_image, style_image = server_transfer.stransfer_from_file(input_filename_path)
+        print('''<img src="images/{0}" width=500 height=600> '''.format(output_image))
+       # print '''<img src="images/{0}" width=500 height=600> '''.format(style_image)
+
+        f.close()
+    else:
+        print("<p> The image should be in JPEG or PNG format </p>")
+
+
+
+print('<form enctype="multipart/form-data" method="post">')
+print('<p>Image: <input type="file" name="file"/></p>')
+print('<input type="submit" value="Upload" />')
+print("</form>")
+print("</body>")
+print("</html>")
