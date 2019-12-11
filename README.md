@@ -52,6 +52,8 @@ To use:
 3. Select a .png or .jpg image from your computer.
 4. Click on 'Upload'
 
+[Demo Video](https://youtu.be/XAjBHadoKOg)
+
 The system will randomly select one of our style images. It will then present your original input, the style image used as well as the resulting stylized image which contains your original content with the style of the style image.
 
 Enjoy!
