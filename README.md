@@ -43,6 +43,8 @@ To reproduce:
 
 The server is online and ready to go.
 
+You can also use the setup.sh script.
+
 To use:
 
 1. Navigate to http://192.12.245.162/hello.py on your web browser.
